@@ -4,3 +4,9 @@
 [submodule "fuel/packages/oil"]
 	path = fuel/packages/oil
 	url = https://github.com/fuel/oil.git
+[submodule "fuel/packages/db"]
+	path = fuel/packages/db
+	url = https://github.com/chrismeller/db.git
+[submodule "fuel/packages/multibyte"]
+	path = fuel/packages/multibyte
+	url = https://github.com/chrismeller/multibyte.git
